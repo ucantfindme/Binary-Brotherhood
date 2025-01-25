@@ -32,3 +32,24 @@ Welcome to Binary Brotherhood, your go-to community for mastering coding, AI/ML 
 - Do run the code snippets and tweak it as you like and play with it
 ### Additional:
 - Solve Exercism chapters on Lists/sets/disctionaries
+
+## Week-4
+### Material:
+- [⁠Memory Management reading ref](https://www.geeksforgeeks.org/memory-management-in-operating-system/?ref=gcse_ind)
+- [Memory Management Video Ref](https://www.youtube.com/watch?v=arxWaw-E8QQ)
+- [Variables Video Ref](https://www.youtube.com/watch?v=Bz3ir-vKqkk&t=0s)
+- [Variable Tutorial](https://www.w3schools.com/python/python_variables.asp)
+- [Datatypes Video Ref](https://www.youtube.com/watch?v=gCCVsvgR2KU)
+- [Datatypes Tutorial](https://www.w3schools.com/python/python_datatypes.asp)
+- [Python Scope](https://www.youtube.com/watch?v=38uGbVYICwg)
+- [Python Scopes Tutorial](https://www.w3schools.com/python/python_scope.asp)
+- [Bit Manipulation Video Tutorial](https://www.youtube.com/watch?v=PyfKCvHALj8)
+- [Bit Manipulation Tutorial](https://www.geeksforgeeks.org/all-about-bit-manipulation/)
+### Recommended:
+- Try Tutorials and refer video lectures if stuck
+### Additional:
+- [Problem-1 ](https://leetcode.com/problems/add-binary/description/?envType=problem-list-v2&envId=bit-manipulation)
+- [Problem-2](https://leetcode.com/problems/single-number/description/?envType=problem-list-v2&envId=bit-manipulation)
+- [Problem-3](https://leetcode.com/problems/missing-number/description/?envType=problem-list-v2&envId=bit-manipulation)
+- [Problem-4](https://leetcode.com/problems/total-hamming-distance/description/?envType=problem-list-v2&envId=bit-manipulation)
+- [Problem-5](https://leetcode.com/problems/maximum-product-of-word-lengths/description/?envType=problem-list-v2&envId=bit-manipulation)
