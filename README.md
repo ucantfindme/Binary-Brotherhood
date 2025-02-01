@@ -53,3 +53,19 @@ Welcome to Binary Brotherhood, your go-to community for mastering coding, AI/ML 
 - [Problem-3](https://leetcode.com/problems/missing-number/description/?envType=problem-list-v2&envId=bit-manipulation)
 - [Problem-4](https://leetcode.com/problems/total-hamming-distance/description/?envType=problem-list-v2&envId=bit-manipulation)
 - [Problem-5](https://leetcode.com/problems/maximum-product-of-word-lengths/description/?envType=problem-list-v2&envId=bit-manipulation)
+
+## Week-5
+### Material:
+- [Blind-75 Problem Set](https://www.geeksforgeeks.org/blind-75/)
+- [Binary Search Reading Ref](https://www.geeksforgeeks.org/binary-search/)
+- [Binary Search Video Ref](http://youtube.com/watch?v=MFhxShGxHWc)
+- [Two Pointers Technique Reading Ref](https://www.geeksforgeeks.org/two-pointers-technique/)
+- [Two Pointer Video Ref](https://www.youtube.com/watch?v=On03HWe2tZM)
+### Recommended:
+- Try the Array questions in Blind-75 and watch the video lectures
+### Additional:
+- [Problem-1-Easy-Two Pointers](https://leetcode.com/problems/valid-palindrome/description/)
+- [Problem-2-Easy-Two Pointers](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+- [Problem-3-Medium-Two Pointers](https://leetcode.com/problems/3sum/description/)
+- [Problem-4-Easy-Binary Search](https://leetcode.com/problems/binary-search/description/)
+- [Problem-5-Medium-Binary Search](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
