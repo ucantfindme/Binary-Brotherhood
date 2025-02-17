@@ -69,3 +69,14 @@ Welcome to Binary Brotherhood, your go-to community for mastering coding, AI/ML 
 - [Problem-3-Medium-Two Pointers](https://leetcode.com/problems/3sum/description/)
 - [Problem-4-Easy-Binary Search](https://leetcode.com/problems/binary-search/description/)
 - [Problem-5-Medium-Binary Search](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+
+## Week-6
+### Material:
+- ⁠[Functions Reading Material](https://www.w3schools.com/python/python_functions.asp)
+- [Functions Video Lecture](https://www.youtube.com/watch?v=89cGQjB5R4M)
+- [Classes Reading Material](https://www.w3schools.com/python/python_classes.asp)
+- [Classes Video Lecture](https://www.youtube.com/watch?v=8O5kX73OkIY)
+### Recommended:
+- Watch the Video lectures and go through the reading materials
+### Additional:
+- [P vs NP](https://www.youtube.com/watch?v=jUy5N-3RAjo)
