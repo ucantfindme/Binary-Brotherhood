@@ -80,3 +80,23 @@ Welcome to Binary Brotherhood, your go-to community for mastering coding, AI/ML 
 - Watch the Video lectures and go through the reading materials
 ### Additional:
 - [P vs NP](https://www.youtube.com/watch?v=jUy5N-3RAjo)
+
+## Week-7
+### Material:
+- [Computational Complexity(Reading Material)](https://www.geeksforgeeks.org/time-complexity-and-space-complexity/)
+- [Computational Complexity(Youtube Lecture)](https://www.youtube.com/watch?v=jUy5N-3RAjo)
+- [Sorting Algorithms(Reading Material)](https://www.geeksforgeeks.org/introduction-to-sorting-algorithm/)
+- [Sorting Algorithms(Video Lecture)](https://www.youtube.com/watch?v=gcRUIO-8r3U)
+### Recommended:
+- Watch the Video lectures and go through the reading materials
+### Additional:
+- Check other sorting Algorithms in the Reading Material
+
+## Week-8
+### Material:
+- [Github Official Workflow Beginner's Guide](https://docs.github.com/en/get-started/start-your-journey/hello-world)
+- [GitHub Video Leture](https://www.youtube.com/watch?v=vA5TTz6BXhY)
+### Recommended:
+- Play with this [Repo](https://github.com/ucantfindme/Github-Tutorial)
+### Additional:
+- Complete the hands on assignment in github's official guide
